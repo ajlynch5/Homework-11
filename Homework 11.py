@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd // Why Pandas
 import matplotlib.pyplot as plt
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
